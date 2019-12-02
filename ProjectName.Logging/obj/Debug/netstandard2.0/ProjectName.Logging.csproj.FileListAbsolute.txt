@@ -1,0 +1,26 @@
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.deps.json
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.deps.json
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.deps.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.csprojAssemblyReference.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.AssemblyInfoInputs.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.AssemblyInfo.cs
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Logging\obj\Debug\netstandard2.0\ProjectName.Logging.pdb

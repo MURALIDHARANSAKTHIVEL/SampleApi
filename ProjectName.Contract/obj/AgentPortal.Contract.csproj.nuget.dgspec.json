@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\MohanKumar\\Fresher Projects\\StudentApi\\ProjectName.Contract\\ProjectName.Contract.csproj": {}
+  },
+  "projects": {
+    "d:\\MohanKumar\\Fresher Projects\\StudentApi\\ProjectName.Contract\\ProjectName.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\MohanKumar\\Fresher Projects\\StudentApi\\ProjectName.Contract\\ProjectName.Contract.csproj",
+        "projectName": "ProjectName.Contract",
+        "projectPath": "d:\\MohanKumar\\Fresher Projects\\StudentApi\\ProjectName.Contract\\ProjectName.Contract.csproj",
+        "packagesPath": "C:\\Users\\mkrishnamoorthy\\.nuget\\packages\\",
+        "outputPath": "d:\\MohanKumar\\Fresher Projects\\StudentApi\\ProjectName.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mkrishnamoorthy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.18.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+<ItemGroup>
+    
+    <ProjectReference Include="..\ProjectName.Contract\ProjectName.Contract.csproj" />
+    <ProjectReference Include="..\ProjectName.DataAccess\ProjectName.DataAccess.csproj" />
+     <ProjectReference Include="..\ProjectName.Logging\ProjectName.Logging.csproj" />
+  
+  </ItemGroup>
+</Project>

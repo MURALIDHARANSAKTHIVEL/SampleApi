@@ -1,0 +1,74 @@
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.deps.json
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.runtimeconfig.json
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.runtimeconfig.dev.json
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Business.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Contract.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Data.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.DataAccess.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Shared.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Business.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Shared.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.DataAccess.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Data.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Contract.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csproj.CopyComplete
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.deps.json
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.runtimeconfig.json
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.runtimeconfig.dev.json
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Business.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Contract.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Data.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.DataAccess.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Shared.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Business.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Shared.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.DataAccess.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Data.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Contract.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csproj.CopyComplete
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\nlog.config
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\appsettings.Production.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.deps.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.runtimeconfig.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.runtimeconfig.dev.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Gateway.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Business.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Contract.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Data.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.DataAccess.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Logging.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Shared.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Business.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Shared.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Data.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Contract.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.DataAccess.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\bin\Debug\netcoreapp2.0\ProjectName.Logging.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csprojAssemblyReference.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.AssemblyInfoInputs.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.AssemblyInfo.cs
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.csproj.CopyComplete
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp2.0\ProjectName.Gateway.pdb

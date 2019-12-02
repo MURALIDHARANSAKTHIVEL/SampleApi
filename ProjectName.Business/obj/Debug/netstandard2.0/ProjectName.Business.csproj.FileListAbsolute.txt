@@ -1,0 +1,43 @@
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.deps.json
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Contract.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Shared.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Contract.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Shared.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csproj.CopyComplete
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.dll
+D:\MohanKumar\Fresher Projects\StudentApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.deps.json
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Contract.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Contract.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csproj.CopyComplete
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.deps.json
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Business.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Contract.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Contract.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csprojAssemblyReference.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.AssemblyInfoInputs.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.AssemblyInfo.cs
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.csproj.CopyComplete
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.Business\obj\Debug\netstandard2.0\ProjectName.Business.pdb

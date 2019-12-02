@@ -1,0 +1,31 @@
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.DataAccess.deps.json
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.DataAccess.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.DataAccess.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Contract.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Shared.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Shared.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Contract.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.csprojAssemblyReference.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.csproj.CoreCompileInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.AssemblyInfoInputs.cache
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.AssemblyInfo.cs
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.csproj.CopyComplete
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.dll
+D:\MohanKumar\Fresher Projects\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.DataAccess.deps.json
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.DataAccess.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.DataAccess.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Contract.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Logging.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Shared.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Shared.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Contract.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\bin\Debug\netstandard2.0\ProjectName.Logging.pdb
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.csprojAssemblyReference.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.AssemblyInfoInputs.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.AssemblyInfo.cs
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.csproj.CopyComplete
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.dll
+D:\student_NFB18\C#\SampleApi\ProjectName.DataAccess\obj\Debug\netstandard2.0\ProjectName.DataAccess.pdb

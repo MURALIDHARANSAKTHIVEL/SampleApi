@@ -1,0 +1,6 @@
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp3.0\ProjectName.Gateway.csprojAssemblyReference.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp3.0\staticwebassets\ProjectName.Gateway.StaticWebAssets.Manifest.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp3.0\staticwebassets\ProjectName.Gateway.StaticWebAssets.xml
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp3.0\ProjectName.Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp3.0\ProjectName.Gateway.AssemblyInfoInputs.cache
+D:\student_NFB18\C#\SampleApi\ProjectName.Gateway\obj\Debug\netcoreapp3.0\ProjectName.Gateway.AssemblyInfo.cs
